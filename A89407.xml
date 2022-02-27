@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Multum in parvo: or, A summary narratiue (not hitherto revealed to publick view) on behalfe of prisoners captived for debt, and of all concerned natives: faithfully extracted out of the fundamentall common-law of this nation, as well in its originall unaltured-puritie and genuine sence, as in recytall of and relating to the abusive practise of divers innovated lawes since repealed, repugnant to the Great Charter (being the abstract or compendium of the common-law, and of the peoples birth-rights, liberties, and priviledges) confirmed by above 30 subsequent Acts and Statutes, parliamentall in force and unrepealed (which unfold (velamine levato) the misprision and illegallity of arresting, outlawing, &amp; imprisoning the body for debt. Now in these opportune times, (professing reformation and regulation of the lawes and generall grievances) presented (for timely redresse) to the clement propitious consideration of his excellency the Lord Generall Cromwell, his right honourable the Counsell of State; and others in authority, in the pensive vanne and mournfullest march of publick grievances and calamities, no sorrowes being equivalent to these.</title>
+            <author>Mullins, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89407</idno>
+            <idno type="STC">Wing M3062</idno>
+            <idno type="STC">Thomason E703_7</idno>
+            <idno type="STC">ESTC R207137</idno>
+            <idno type="EEBO-CITATION">99866208</idno>
+            <idno type="PROQUEST">99866208</idno>
+            <idno type="VID">118473</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89407)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118473)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 108:E703[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Multum in parvo: or, A summary narratiue (not hitherto revealed to publick view) on behalfe of prisoners captived for debt, and of all concerned natives: faithfully extracted out of the fundamentall common-law of this nation, as well in its originall unaltured-puritie and genuine sence, as in recytall of and relating to the abusive practise of divers innovated lawes since repealed, repugnant to the Great Charter (being the abstract or compendium of the common-law, and of the peoples birth-rights, liberties, and priviledges) confirmed by above 30 subsequent Acts and Statutes, parliamentall in force and unrepealed (which unfold (velamine levato) the misprision and illegallity of arresting, outlawing, &amp; imprisoning the body for debt. Now in these opportune times, (professing reformation and regulation of the lawes and generall grievances) presented (for timely redresse) to the clement propitious consideration of his excellency the Lord Generall Cromwell, his right honourable the Counsell of State; and others in authority, in the pensive vanne and mournfullest march of publick grievances and calamities, no sorrowes being equivalent to these.</title>
+                  <author>Mullins, James.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.H. and are to be sold at the Royall Exchance [sic] in Corn-Hill.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to James Mullins.</note>
+                  <note>Annotation on Thomason copy: "June 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debt, Imprisonment for --  England --  Early works to 1800.</term>
+               <term>Law reform --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:118473:1" rendition="simple:additions"/>
+               <hi>Multum in parvo:</hi> OR, A SUMMARY NARRATIUE (Not hitherto revealed to pub<g ref="char:EOLhyphen"/>lick view) on behalfe of Priſoners captived for <hi>Debt,</hi> and of all concerned Natives: Faithfully extracted out of the Fundamentall Common-law of this Nation, as well in its Originall unaltured<g ref="char:EOLhyphen"/>puritie and genuine ſence, as in recytall of and relating to the abuſive practiſe of divers Innova<g ref="char:EOLhyphen"/>ted Lawes ſince repealed, repugnant to the Great Charter (being the Abſtract or Compendium of the Common-law, and of the peoples Birth-rights, Liberties, and Priviledges) confirmed by above 30 ſubſequent Acts and Statutes, Parliamentall in force and unrepealed (which unfold <hi>(velamine le<g ref="char:EOLhyphen"/>vato)</hi> the miſpriſion and illegallity of arreſting, outlawing, &amp; impriſoning the Body for <hi>Debt.</hi> Now in theſe opportune Times, (profeſſing Reformation and Re<g ref="char:EOLhyphen"/>gulation of the Lawes and generall Grievances) preſented (for timely redreſſe) to the clement propitious conſideration of His Excellency the Lord Generall <hi>CROMWELL,</hi> His Right Honourable the Counſell of State; and others in Au<g ref="char:EOLhyphen"/>thority; in the penſive Vanne and mournfulleſt March of publick grievances and calamities, no ſorrowes being equi<g ref="char:EOLhyphen"/>valent to theſe.</p>
+            <p>LONDON: Printed for <hi>J. H.</hi> and are to be ſold at the Royall Exchance in Corn-Hill.</p>
+            <p>1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="legal_observations">
+            <pb facs="tcp:118473:2"/>
+            <pb n="1" facs="tcp:118473:2"/>
+            <head>Obſervations Legall.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Y the Fundamentall or Common-Law equally compoſed and digeſt<g ref="char:EOLhyphen"/>ed betweene Prince and People, Creditor and Debtor, the body or perſon of man is exempt from Ar<g ref="char:EOLhyphen"/>reſt, Outlawry &amp; Impriſonment for Debt, as well before as after Judge<g ref="char:EOLhyphen"/>ment, and the Debtors Lands from being extended in Execution, the Common Law knowing no ſuch courſe of perſonall Impriſonment, except in Crimi<g ref="char:EOLhyphen"/>nall Cauſes or Treſpaſſes committed with Force and Armes: it having bin ſo reſolved by all the Judges of <hi>England,</hi> as appeareth in Sir <hi>VVilliam Herberts</hi> Caſe cy<g ref="char:EOLhyphen"/>ted in the Lord <hi>Cookes</hi> third Reportes.</p>
+            <p>That neither in Proceſs or Execution for Debt any Capias did lye againſt the body, this ſage Judgment &amp; reſult being derived and rightly grounded upon the Law of the Great Charter, Cap. 29. which doth cau<g ref="char:EOLhyphen"/>tion and provide, That no Free man ſhall be taken, impriſoned, or outlawed, but by the Law of the Land then in uſe. <hi>Magna fuit quondam magnae reverentia Chartae.</hi> The manifeſt legall-motives hereof were: 1. In reſpect that by poſitive Law, the Goods Chat<g ref="char:EOLhyphen"/>tles,
+<pb n="2" facs="tcp:118473:3"/>
+and profits of Debtors Lands, are ſovert and lyable to theſe two coercive Writs in force, (that is to ſay) A Fiery Facias againſt the Debtors Goods, and Chattles, and a Levary Facias againſt the profits increaſing bpon the Lands of the Debtor, untill ſa<g ref="char:EOLhyphen"/>tisfaction of the debt and damage recovered.</p>
+            <p>So there is no poſitive Law for iſſuing the Capias or Exigent againſt the body or perſon in meere civill cauſes.</p>
+            <p>Further Inducives of theſe proviſionall Laws pro<g ref="char:EOLhyphen"/>bably were.</p>
+            <p n="1">1. Firſt to the end, that the creditor might at his owne election be rightly ſecured and ſatisfied his juſt debts, where the ſame is properly due and recover<g ref="char:EOLhyphen"/>able in the Debtors Eſtate reall or perſonall, there be<g ref="char:EOLhyphen"/>ing no other meanes cogitable and conſiſtent with Law and Reaſon for ſatisfaction of Debts and De<g ref="char:EOLhyphen"/>mands pecuniary; the Body, Blood, Indignity, Thral<g ref="char:EOLhyphen"/>dome, and precious Liberty, and Life of Man, being an inconſiſtent illegall pledge or ſecurity for debt.</p>
+            <p n="2">2. To the end, That the perſon or body of man, being a participant living Member of the common wealth, may not be ſevered and ſecluded from it as a withered branch, by thraldome and incarceration for debt at the inſatiate vindicture humour and paſ<g ref="char:EOLhyphen"/>ſion of mercileſſe malevolent creditors, enemies to humane-moderation, it being incongruous petulant arrogance in them to excerciſe and inflict ſuch barba<g ref="char:EOLhyphen"/>rous cruelty and domination over their debtors their even-chriſtians, whether ſolvent or inſolvent, con<g ref="char:EOLhyphen"/>cerning any uſurious penall or pecuniary matters; violence extorted profit, by ruine or damage of o<g ref="char:EOLhyphen"/>thers being <hi>Turpe lucrum,</hi> a vile ignominious Jewiſh<g ref="char:EOLhyphen"/>gaine.</p>
+            <pb n="3" facs="tcp:118473:3"/>
+            <p n="3">3. To the end, That the body or perſon might al<g ref="char:EOLhyphen"/>wayes remaine at liberty to exerciſe and intend the neceſſary affaires and accomodations of life and live<g ref="char:EOLhyphen"/>lihood for ſupport and ſubſiſtance of themſelves, their Wives, Children, Families, and Vocations.</p>
+            <p n="4">4. To the end, That the body or perſon might be conſtantly in free readineſſe and capacity according to their beſt faculties &amp; qualifications, to ſerve their native Countrey, either in Peace or Warre, as uſefull Members thereof, and the Common-wealth not be ſurprized of that right and priviledge, and the na<g ref="char:EOLhyphen"/>tives untimely bereft of humane dignity and all conſolations of life, through the deteiner and re<g ref="char:EOLhyphen"/>ſtraint in the living Sepulcher of a Priſon, &amp; by that meanes become diſeſteemed, like <hi>telluris onus et inutile pondus,</hi> an unprofitable burden to the earth, and a Map of miſery to himſelfe, folded after the fancy and furey of mavevolent cruell creditors.</p>
+            <p n="5">5. To the end, That the neceſſary approved Cal<g ref="char:EOLhyphen"/>ling, conſonant to the creators a wfull-ordinance im<g ref="char:EOLhyphen"/>poſed on lapſed man, to earne his living <hi>ſudore vultus</hi> by induſtry and labour, principally conſiſting in ſeaſonable acting and advancing tillage and agricul<g ref="char:EOLhyphen"/>ture, (not to be effected without toyle and ſweat of the moſt ſternuous laborious rurall-people) might not by reaſon of perſonall reſtraint for Debt, be in<g ref="char:EOLhyphen"/>tercepted and diſcouraged in their painfull endea<g ref="char:EOLhyphen"/>vours for their own and the common utility and til<g ref="char:EOLhyphen"/>lage approved by God and man, be impeached or ſuffered to decay to the helpleſſe, ruine of the en<g ref="char:EOLhyphen"/>thraled Debtor, and all his and the unſpeakable prejduce of the common wealth.</p>
+            <p n="6">6. To the end, That neither any Vocation, Manu<g ref="char:EOLhyphen"/>all
+<pb n="4" facs="tcp:118473:4"/>
+or Mechanike Art, Artiſt, Trade, Merchandize, Myſterie, or Manufactory, (being as the vitall pulſes, nerues, and ligaments, which cymment and ſecure the exiſtence of a well-compoſed common-wealth, might not in any wiſe be diſmayed diverted or fru<g ref="char:EOLhyphen"/>ſtrated of their expectations, callings, and credits, at the will of the creditor, and the ſame become fruit<g ref="char:EOLhyphen"/>leſſe by reaſon of perſonall captivity for debt, not terminary in any yeare or time of Jubilee, albeit the common Law hath (as aforeſaid) preſcribed and pro<g ref="char:EOLhyphen"/>vidently provided for the creditors ſatisfaction of Debts and Demands pecuniary by and out of the debtors Eſtate reall or perſonall.</p>
+            <p n="7">7. To the end, That thoſe excellent impartiall Law-makers, might declare themſelves ſenſible of the divine Lawes, Fiats, and Santions in that behalf, and that mans privation of that <hi>perdulce bonum,</hi> pre<g ref="char:EOLhyphen"/>cious liberty fatally oppoſite and deſtructive to the prerecited principles and inducements, nature, rea<g ref="char:EOLhyphen"/>ſon, religion, the propagation of common-wealths, and the choiceſt faculties and felicities of life.</p>
+            <p>The Petitioners further remonſtrate, That theſe provident propitious Lawes for the perſonall free<g ref="char:EOLhyphen"/>dome of the people concerning debt, did flouriſh &amp; continue in violate, the ſpace of two hundred and twenty years, after the Norman conqueſt, till the thir<g ref="char:EOLhyphen"/>teenth yeare of <hi>Edw.</hi> the firſt, by the Statute of <hi>Weſt. minſter</hi> 2c. 11. the firſt capias and proceſſe of Out<g ref="char:EOLhyphen"/>lawry was introduced in formality and ſucgeſtion, meerely concerning perticular perſons, preſuppoſed by that Statue to be criminall, fugitive, fraudulent Accomptants, but really and intentionally, as ſeem<g ref="char:EOLhyphen"/>ed by the ſudden ſad concequence innovated <hi>pau<g ref="char:EOLhyphen"/>latin</hi>
+               <pb n="5" facs="tcp:118473:4"/>
+not viſibly at once, but by degrees to invade and ſwallow up the peoples priviledges and innumi<g ref="char:EOLhyphen"/>ties, for in the face or heeles of that capias and pro<g ref="char:EOLhyphen"/>ceſſe of Outlawry, by the eighteenth branch of the ſame Statute, an Elegit was added againſt the moyty of the Debtors Lands, being never before lyable to Execution either upon Judgement or Recogniz<g ref="char:EOLhyphen"/>ance.</p>
+            <p>That about 60 yeares after, and 280 years and up<g ref="char:EOLhyphen"/>wards, after the Norman conqueſt, <hi>Anno</hi> 25 <hi>Edw.</hi> 3. by a very ſhort, ſharp, and ſevere Law, the like Pro<g ref="char:EOLhyphen"/>ceſſe was granted in Debt as in Accompt, and this was the firſt fatall blow which wounded the Great Charter, and ſtruck at the foundation of the peoples Liberties, yet it is worthy obſervation, that there nei<g ref="char:EOLhyphen"/>ther was, or indeed could be framed or invented any preface or introduction to manifeſt or expreſſe any reaſon, cauſe, or motive, to gloſſe or countenance that innovation, mutation and mutilation of the Great Charter, and peoples perſonall freedome concerning debt.</p>
+            <p>
+               <hi>Anno</hi> 42. <hi>Edw.</hi> 3. The ſame King and Parliament<g ref="char:EOLhyphen"/>all counſell adviſedly pondering the ſad conſe<g ref="char:EOLhyphen"/>quencies of that former cruell Act of the 25 of his reigne (having been exiſtent about eighteen yeares) did abrogate and repeale the ſame, together with the Mother in law Act, or Parent which had nurſed that degenerate monſter, by ſome reſerved State policy (totally if it were poſſible) to neneruate and exter<g ref="char:EOLhyphen"/>minate the memory of the Grand Charter and legall Priviledges of the people, both root, branch, and ſtemme, before that Act of Grace, of the ſame King reſtored and revived it, with the peoples Liberties,
+<pb n="6" facs="tcp:118473:5" rendition="simple:additions"/>
+thereby explaining and declaring all precedent or ſubſequent Acts, tending to the violation or infring<g ref="char:EOLhyphen"/>ing the ſame to be void and null, <hi>ſo una eademque ma<g ref="char:EOLhyphen"/>nus vulnus opempue tulit,</hi> the ſame hand that gave the wound, recured it.</p>
+            <p>That nevertheleſſe, that Capias and Proceſſe in debt as in accompt, relating indefinitly a like to the vniuerſality of the people, they were promiſcu<g ref="char:EOLhyphen"/>ouſly and incongruiouſly included and comprehend<g ref="char:EOLhyphen"/>ed amongſt the ſort of thoſe impeached fraudulent fugitive Accomptants, being probably ſome few in<g ref="char:EOLhyphen"/>conſiderable number; albeit the entire Claſſe of the people were neither Receivers or Accomptants to any, &amp; yet by reaſon of that miſtake or miſconſtru<g ref="char:EOLhyphen"/>ctions were ſevered, ſcattered, and chaſed away as chaffe or duſt before the winde, and <hi>(ex improviſo)</hi> bereaved of their precious liberty and freedome, without any diſtinction of quality or degrees.</p>
+            <p>That notwithſtanding, the then Peeres and No<g ref="char:EOLhyphen"/>bility (as is probable) either by reaſon of their diſ<g ref="char:EOLhyphen"/>ſaſlent or interpoſition againſt that deſtructive in<g ref="char:EOLhyphen"/>novated Act of 25 <hi>Edw.</hi> 3. or in reſpect of thoſe <hi>Ar<g ref="char:EOLhyphen"/>cana Imperii</hi> (unſafe to contrevert) or of ſome other indulgent caution or connivence, did continue &amp; en<g ref="char:EOLhyphen"/>joy their perſonall freedomes and priviledges, from arreſt and impriſonment for debt, (as of old) along the various intervalls and intervemencies of Time and Government, untill the late Parliament eclip ſed their perſonall Priviledge, Peerage, Votes, and Suffrages.</p>
+            <p>That during that ſhort chaſme or ſpace of Time, wherein that inniovated Act of 25 <hi>Edw.</hi> 3. had bin vigent and excerciſed, that <hi>dulce venenum</hi> or ſweet
+<pb n="7" facs="tcp:118473:5"/>
+poyſon of lucre exhauſted from wealthy wilfull Cre<g ref="char:EOLhyphen"/>ditors, &amp; drilled or extorted from impriſoned or bay<g ref="char:EOLhyphen"/>led Debtors, had ſo inchanted or infeſted the a variti<g ref="char:EOLhyphen"/>ous a petites of ſom eminent perſons, otherwiſe grave &amp; judicious; &amp; likewiſe the covetuous deſires &amp; ap<g ref="char:EOLhyphen"/>prehenſions of ſome then practick Attornyes, Under-Sheriffs, Priſon-keepers, Arreſting-Bayliffs, and other Officers &amp; Agents then newly elected &amp; actuating in City &amp; Country, to purſue &amp; perplex as well ſolvent as inſolvent debtors. That thoſe wily craftſmen (un<g ref="char:EOLhyphen"/>willing to relinguiſh that Golden gaine, and ſpoyle) ſo cunningly and cautiouſly contrived that Spyder<g ref="char:EOLhyphen"/>like Web, to catch and enſnare the wrongfully diſ<g ref="char:EOLhyphen"/>priviledged people: That the ſame uſurped illegall courſe and proceedings for Arreſting, Outlawing, and Impriſoning the body for debt, became a conſtant cruell practiſe and cuſtome amongſt them; and it is humbly offered to your prudent conſiderations, whether or no partly by reaſon of the ſupernumerary ſwarmes and ſwervings of ſome covetous moderne titulary Atturneyes, and illiterall ignorant Soliciters, and other inconſiderable Agents (who like Waſps or Hornets blaſt and venome many cauſes and clyents they graſp or ſeize on) ſome peſtilent or more perni<g ref="char:EOLhyphen"/>tious ſpirit then thoſe of paſt ages do not ſtil range &amp; rage amongſt us; animating factious people to under<g ref="char:EOLhyphen"/>take impertinent litigious Suites, &amp; wilfull wealthy Creditors to exerciſe tyranny to the life, againſt ſol<g ref="char:EOLhyphen"/>vent or inſolvent debters, under colour of the ſaid abuſive practiſe and cuſtome.</p>
+            <p>The Petitioners humbly conceive, that no illegall innovated practiſe or cuſtome, can be ſo antient and authentick as law, neither ought any inconſiderate
+<pb n="8" facs="tcp:118473:6"/>
+inadvertence or miſconſtruction of law, though flouriſhed with ſpecious ſplendid pretences, (or ſhadowed and obſcured under the cloud or falſe courtaine of ample antiquity) to be fancied and admitted to create or approve that to bee <hi>Law,</hi> which <hi>revera</hi> is not law, but <hi>e contra</hi> (as in this diſtreſ<g ref="char:EOLhyphen"/>ſed caſe) a meer uſurped abuſive practiſe and falacy oppoſite unto, and unwarrant by any juſt incorrupt law, equity, ſence or conſcience.</p>
+            <p>For theſe, and the precedent movies, the Petiti<g ref="char:EOLhyphen"/>oners humbly hope and beſeech further, That your Excelency and Honors, will think meet and declare,</p>
+            <p n="1">1. That al the ſaid abuſive uſurped practiſes, cuſtoms, and manifold evill &amp; deſtructive effects, in any wiſe preceding or proceeding by that meanes, may hence<g ref="char:EOLhyphen"/>forth be aboliſhed, ceaſe, and determine, together with all relation, force or uſe of thoſe obſolete per<g ref="char:EOLhyphen"/>nicious Acts, from whence they have rudely and violently flowed (without ebbe or abatement) as from vaſte ſtreames poluted and conſiſting of many corrupt and troubled waters.</p>
+            <p n="2">2. That you Wiſedomes (having elected for your Objects, the moſt excellent ends of Reformation, and Regulation of the law, &amp; inſufferable encroach<g ref="char:EOLhyphen"/>ed practiſe and abuſes thereof) will vouchſafe to de<g ref="char:EOLhyphen"/>clare, That the Great Charter being (as aforeſaid) the Epitome of the law, rightly diſtinguiſhing be<g ref="char:EOLhyphen"/>tween the then regall legall prerogative power, and the Subjects Rights and Priviledges, together with all the affirmative lawes and Statutes for maintain<g ref="char:EOLhyphen"/>ance, ratification, and eſtabliſhment thereof, and of the peoples libertie may remaine and continve invi<g ref="char:EOLhyphen"/>olably in force, the rather for that it doth legally and
+<pb n="9" facs="tcp:118473:6"/>
+clearely appeare thereby, and eſpecially by the Act of 42 of <hi>Edw.</hi> 3. That all repugnant Statutes in any wiſe infringing the Great Charter, or the peo<g ref="char:EOLhyphen"/>ples liberties, or which gave the Capias or Exigent in debt as in accompt, to be repealed, abrogated, and held for null and or none, they being indeed the murthering-peeces or engines wherewith the ſly &amp; wily Engineeres of thoſe times, durſt and did attempt to batter and invade the liberties, peace, &amp; tranquil<g ref="char:EOLhyphen"/>lity of the people.</p>
+            <p n="3">3. That the fundamentall primitive lawes of this land, being the primitive reſults of the venerable conſcript law-makers, who deſervedly enjoyed the palme and priority in compyling apt and equall lawes for ſteering and regulating Prince and people from ſwerving aſtray to the right hand or the left, may continue as things ſacred andinviolable; and the preheminence and meliority of their judgements who made them not ſuffer eclipſe, but that the in<g ref="char:EOLhyphen"/>terpretation thereof, in their originall genuine ſence, being as the virgin-voice or Oracle of the law may be dureable and permanent to poſterity, all inter accidents or innovated practiſes, pretences, and evill cuſtomes whatſoever to the contrary notwith<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <p>The divine innocenſe and verity it ſelfe, hav<g ref="char:EOLhyphen"/>ing thus differenced cuſtome from truth. <hi>Ego ſum veritas, non conſuetudo.</hi> I am Truth, not Cuſtome.</p>
+            <p n="4">4. Finally, that it is meerly the innovated, inju<g ref="char:EOLhyphen"/>rious, evill practiſes and cuſtomes, relating to void repealed Acts, exerciſed and intruded againſt the prerecited proviſionall Common Common lawes, Magna Charta, and other unrepealed Acts in force, againſt
+<pb n="10" facs="tcp:118473:7"/>
+the lawes divine and humane, which doth beget and multiply theſe grievances and crying complaints which the Petitioners and all therein concerned humbly pray may be forth with regulated and redreſ<g ref="char:EOLhyphen"/>ſed, as your prudence and piety ſhall ſeeme meet, unto whoſe benignity and goodneſſe herein, they proſtrate and preſent the ſame, with their lowly Petitionary Requeſt hereunto annexed: Of which favour they preſume the rather for that the timely rectification and reformation of this generall griev<g ref="char:EOLhyphen"/>ance will be acceptable in the ſight of God and all pious minded people, and probably ſilence and bury in Oblivion, many other crying Grievances derived from this occaſion, as the Petitioners can manifeſt whenſoever themſelves, their Counſell, or Agents ſhall be appointed perſonally to attend and be heard <hi>viva voce</hi> in your Honours preſence, and admitted by further additionall inducement, or otherwiſe to de<g ref="char:EOLhyphen"/>fend and maintain their humble propoſalls on behalf of themſelves the concerned people, and the true inadulterous law on that behalfe.</p>
+         </div>
+         <div type="petition">
+            <pb n="11" facs="tcp:118473:7"/>
+            <head>To His Excellency the Lord Gen. CROMWELL, the Right Honourable Counſell of State, and others deſigned for regulation, redreſſe, or abolution of publick Grievances.
+The ſubmiſſive Petition of priſoners captived for Debt, ſome upon feigned, falſe, and unjuſt Acti<g ref="char:EOLunhyphen"/>ons and pretences; many willing to pay their juſt debts, according to their abi<g ref="char:EOLhyphen"/>lity without fraud; and others miſer<g ref="char:EOLhyphen"/>ably poor &amp; altogether inſolvent.</head>
+            <opener>Humbly ſheweth and remonſtrateth as by their motives an<g ref="char:EOLhyphen"/>nexed, they have ſhewed and remonſtrated.</opener>
+            <p>THat by the Fundamentall Common-Law, and the cleare intendments thereof, and of Magna Charta re-confirmed and re-eſtabliſhed by above 30 ſubſequent Parliamentall Acts or Edicts in force and unrepealed, the body or perſon of man is exempt from Arreſt, Outlawry, or Impriſonment for Debt, inreſpect of the proviſionall priopitious lawes and reaſons in the ſaid motives or inducements expreſſed further, which may be more amply illuſtrated by additionall motives and reaſons in refutation of any oppoſition or obſtruction: In which Caſe the peti<g ref="char:EOLhyphen"/>tioners beſeech that by themſelves, their Counſell or Agents, they may be heard <hi>viva voco</hi> in humble defence and maintainance of their propoſulls and requeſts: the ſaid grand and gracious Charter con<g ref="char:EOLhyphen"/>taining the breviary or Abſtract of the indulterate Lawes and Sanctions, being relative to and recipro<g ref="char:EOLhyphen"/>call
+<pb n="12" facs="tcp:118473:8"/>
+betweene the Prince and people, Creditor and Debtor, plaintiffe and defendant, ſignifficantly and exactly differencing and diſtinguiſhing the legall regent dignity, power, preheminence, and preroga<g ref="char:EOLhyphen"/>tive, by what ſtile of apellation ſoever; as alſo, the peoples protection, priviledges, innumities, and per<g ref="char:EOLhyphen"/>ſonall freadome, the benefit whereof and of the juſt laws and reſpective powers and qualifications of the ſame, being the priſoners and peoples inſeperable inherent legall right and birth-right, as by the ſaid motives is more fully explained.</p>
+            <p>That the petitioners crying cares and calamities doe ſtill ſtill ſeem more and more to encreaſe rather then be diminiſhed and alleviated, repreſenting to their diſmayed mindes, and diſconſolate apprehenſi<g ref="char:EOLhyphen"/>ons, thoſe dangerous woes of the deſolate Jews when deſigned to ſudden ſlaughter and deſtruction, un<g ref="char:EOLhyphen"/>heard and unredreſſed, untill faithfull diſcerning <hi>Mordecay,</hi> ſenſible of the generall deſolation &amp; ruine intended, did bewaile, unfold, and impreſſe the true ſence thereof, into the intelect of gracious <hi>Heſter,</hi> and that ſhe upon mature-perpenſation of the ſad conſe<g ref="char:EOLhyphen"/>quencies which might befall, deſpiſing all dangers &amp; diſſiculties, reſolved to intercede and did proſper<g ref="char:EOLhyphen"/>ouſly prevailed with the <hi>Perſian</hi> Juſtice, clemency, &amp; benignity, (though a <hi>pagan)</hi> to redreſſe and recall that cruell bloody Edict, which otherwiſe had <hi>ex improviſo,</hi> become inconſideratly and fatally de<g ref="char:EOLhyphen"/>ſtructive to the entire claſſe or race of the Jewes, whereſoever diſperſed throughout his ample Domi<g ref="char:EOLhyphen"/>nions.</p>
+            <p>That the penſive petitioners, in like manner hum<g ref="char:EOLhyphen"/>bly hope and implore, that their ceſlant ſights and
+<pb n="13" facs="tcp:118473:8"/>
+ecchoes of their moanes, lamentations, and lowly interceſſions for timely redreſſe of inexplicable ſor<g ref="char:EOLhyphen"/>rowes, may become a like proſperous and prevalent with your publick Spirits and intendments, like de<g ref="char:EOLhyphen"/>ſerving <hi>mordecaies</hi> and patriots of your countery, and of the peoples birth-rights and perſonal priviledges and immunities; to avert, rectifie, and redreſſe theſe grievances, you having the apt opportunity under God, to propituate them, and exchange this their ſad condition to that which may render them happy and you famous to all poſteriry.</p>
+            <p>That in their juſt and humble confidence and expectations, the petitioners pray as by their humble motives they inſtance and beſeech.</p>
+            <p>That it may ſeem meet to your Excellency and all concerned, (in relation to the preſent Government, regulation of the Law, and redreſſes of crying Griev<g ref="char:EOLhyphen"/>ances) forthwith to ſettle and ſecure the premiſes and the priſoners and peoples priſtine rights and pri<g ref="char:EOLhyphen"/>viledges as to your Wiſdomes ſhall ſeeme meet, by means whereof the originall authenticke courſe and proceedings punctually preſcribed and intended by the Law &amp; law-makers on behalfe of Creditors for recovery of their juſt debts, may be hereafter ob<g ref="char:EOLhyphen"/>ſerved and proſecuted againſt the Eſtate reall and perſonall of the debtor, in purſuance of the ſaid warrantable proviſionall circumſpect laws ordained for the creditors ſatisfaction, &amp; not againſt the body.</p>
+            <p>And finally, that the Petitionary priſoners for debt, may be ſpeedily enlarged and diſcharged from their perſonall impriſonment, and none hereafter impri<g ref="char:EOLhyphen"/>ſoned and enthralled concerning debt, under colour or pretence of any repealed, cruell, illegall, void, or
+<pb n="14" facs="tcp:118473:9"/>
+voidable Act or Statute, or of any abuſive innovated cuſtome or practiſe thereof, or thereunto relating or deriving, or of any other recent or new-deviſed or invented arbitrary fancy or propoſall, ſiniſterly con<g ref="char:EOLhyphen"/>trived or inſinvated by cruell malevolent Creditors for debt, for the moſt part not due or juſtifiable; ſuch Creditors eſteeming ſlander and calumination (for their owne ends) againſt the oppreſſed Debtor, with what cruelty and injury elſe their malice can multi<g ref="char:EOLhyphen"/>ply againſt them neither to be ſin or injurious, albe<g ref="char:EOLhyphen"/>it the ſame is odious and abhominable in the ſight &amp; light of Truth, Nature, Reaſon, Equity, Sence, Con<g ref="char:EOLhyphen"/>ſcience, and all lawes Divine and Humane.</p>
+            <p>And the opportune extending of this Juſtice and Benig<g ref="char:EOLhyphen"/>nity for alleviating the cares of the concerned; and the rectification and reformation of this important grie<g ref="char:EOLhyphen"/>vance, and reſtoring the priſoners, and concerned Na<g ref="char:EOLhyphen"/>tives, birth-rights, liberties, and perſonall priviledges and protect will be indelibly impreſſed in their grate<g ref="char:EOLhyphen"/>full memorie, untill time ceaſe to be, which is the unfeined prayers and invocations of the petitioners.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
